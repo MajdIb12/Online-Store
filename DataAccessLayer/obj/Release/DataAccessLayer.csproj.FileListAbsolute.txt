@@ -1,0 +1,7 @@
+C:\Users\Victus\source\repos\DataAccessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\Victus\source\repos\DataAccessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\Victus\source\repos\DataAccessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\Victus\source\repos\DataAccessLayer\obj\Release\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\DataAccessLayer\obj\Release\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\DataAccessLayer\obj\Release\DataAccessLayer.dll
+C:\Users\Victus\source\repos\DataAccessLayer\obj\Release\DataAccessLayer.pdb

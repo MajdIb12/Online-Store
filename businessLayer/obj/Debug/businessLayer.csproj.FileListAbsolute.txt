@@ -1,0 +1,10 @@
+C:\Users\Victus\source\repos\businessLayer\bin\Debug\businessLayer.dll
+C:\Users\Victus\source\repos\businessLayer\bin\Debug\businessLayer.pdb
+C:\Users\Victus\source\repos\businessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Victus\source\repos\businessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Victus\source\repos\businessLayer\obj\Debug\businessLayer.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\businessLayer\obj\Debug\businessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\businessLayer\obj\Debug\business.E8D73CDA.Up2Date
+C:\Users\Victus\source\repos\businessLayer\obj\Debug\businessLayer.dll
+C:\Users\Victus\source\repos\businessLayer\obj\Debug\businessLayer.pdb
+C:\Users\Victus\source\repos\businessLayer\bin\Debug\DataAccessLayer.dll.config

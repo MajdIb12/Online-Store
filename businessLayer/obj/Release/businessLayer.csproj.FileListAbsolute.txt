@@ -1,0 +1,10 @@
+C:\Users\Victus\source\repos\businessLayer\bin\Release\businessLayer.dll
+C:\Users\Victus\source\repos\businessLayer\bin\Release\businessLayer.pdb
+C:\Users\Victus\source\repos\businessLayer\bin\Release\DataAccessLayer.dll
+C:\Users\Victus\source\repos\businessLayer\bin\Release\DataAccessLayer.pdb
+C:\Users\Victus\source\repos\businessLayer\bin\Release\DataAccessLayer.dll.config
+C:\Users\Victus\source\repos\businessLayer\obj\Release\businessLayer.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\businessLayer\obj\Release\businessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\businessLayer\obj\Release\business.E8D73CDA.Up2Date
+C:\Users\Victus\source\repos\businessLayer\obj\Release\businessLayer.dll
+C:\Users\Victus\source\repos\businessLayer\obj\Release\businessLayer.pdb

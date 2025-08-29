@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Victus\\source\\repos\\OnlineStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA6DAF1-4B39-4CF7-92B9-B237A9B9E7B8}|OnlineStore.csproj|c:\\users\\victus\\source\\repos\\onlinestore\\login_register\\frmaccountsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA6DAF1-4B39-4CF7-92B9-B237A9B9E7B8}|OnlineStore.csproj|solutionrelative:login_register\\frmaccountsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA6DAF1-4B39-4CF7-92B9-B237A9B9E7B8}|OnlineStore.csproj|c:\\users\\victus\\source\\repos\\onlinestore\\login_register\\frmaccountsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBA6DAF1-4B39-4CF7-92B9-B237A9B9E7B8}|OnlineStore.csproj|solutionrelative:login_register\\frmaccountsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE80055-F6B2-4656-8C10-9FD377DCC4F3}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\victus\\source\\repos\\dataaccesslayer\\clsadmindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA8681B-E253-4377-8BFE-D5991359972D}|..\\businessLayer\\businessLayer.csproj|c:\\users\\victus\\source\\repos\\businesslayer\\clsadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BE80055-F6B2-4656-8C10-9FD377DCC4F3}|..\\DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\victus\\source\\repos\\dataaccesslayer\\clscustomerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBA6DAF1-4B39-4CF7-92B9-B237A9B9E7B8}|OnlineStore.csproj|c:\\users\\victus\\source\\repos\\onlinestore\\login_register\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBA6DAF1-4B39-4CF7-92B9-B237A9B9E7B8}|OnlineStore.csproj|solutionrelative:login_register\\frmregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAA8681B-E253-4377-8BFE-D5991359972D}|..\\businessLayer\\businessLayer.csproj|c:\\users\\victus\\source\\repos\\businesslayer\\clscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsAdminData.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\DataAccessLayer\\clsAdminData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\clsAdminData.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\DataAccessLayer\\clsAdminData.cs*",
+              "RelativeToolTip": "..\\DataAccessLayer\\clsAdminData.cs*",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAjwJoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:04:41.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsAdmin.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\businessLayer\\clsAdmin.cs",
+              "RelativeDocumentMoniker": "..\\businessLayer\\clsAdmin.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\businessLayer\\clsAdmin.cs",
+              "RelativeToolTip": "..\\businessLayer\\clsAdmin.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAWwDsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:03:30.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsCustomerData.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\DataAccessLayer\\clsCustomerData.cs",
+              "RelativeDocumentMoniker": "..\\DataAccessLayer\\clsCustomerData.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\DataAccessLayer\\clsCustomerData.cs",
+              "RelativeToolTip": "..\\DataAccessLayer\\clsCustomerData.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAjwI8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:56:09.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\businessLayer\\clsCustomer.cs",
+              "RelativeDocumentMoniker": "..\\businessLayer\\clsCustomer.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\businessLayer\\clsCustomer.cs",
+              "RelativeToolTip": "..\\businessLayer\\clsCustomer.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAewD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:50:02.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\OnlineStore\\Login_Register\\frmRegister.cs",
+              "RelativeDocumentMoniker": "Login_Register\\frmRegister.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\OnlineStore\\Login_Register\\frmRegister.cs",
+              "RelativeToolTip": "Login_Register\\frmRegister.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T09:13:47.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAccountSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\OnlineStore\\Login_Register\\frmAccountSettings.cs",
+              "RelativeDocumentMoniker": "Login_Register\\frmAccountSettings.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\OnlineStore\\Login_Register\\frmAccountSettings.cs*",
+              "RelativeToolTip": "Login_Register\\frmAccountSettings.cs*",
+              "ViewState": "AgIAAHUAAAAAAAAAAADgv4UAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:49:14.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAccountSettings.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Victus\\source\\repos\\OnlineStore\\Login_Register\\frmAccountSettings.cs",
+              "RelativeDocumentMoniker": "Login_Register\\frmAccountSettings.cs",
+              "ToolTip": "C:\\Users\\Victus\\source\\repos\\OnlineStore\\Login_Register\\frmAccountSettings.cs [Design]*",
+              "RelativeToolTip": "Login_Register\\frmAccountSettings.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T08:41:21.14Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
